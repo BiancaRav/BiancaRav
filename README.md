@@ -1,4 +1,8 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil de desenvolvedor.
+
+Estou iniciando uma nova jornada e incluindo meus trabalhos nessa rede, 
+caso queira fique a vontade para comentar, compartilhar e testar meus projetos.
+👋
 
 <!--
 **BiancaRav/BiancaRav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
